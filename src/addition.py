@@ -1,7 +1,6 @@
 # app.py
 #this is test 
-#new
-#new
+
 def add(a, b):
     return a + b
 
